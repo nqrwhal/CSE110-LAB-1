@@ -63,6 +63,13 @@ img {
     padding:12px;
 
 }
+.subscription {
+    background-color: #182b49;
+    width:100%;
+    color:white;
+    font-size: 28px;
+    padding:12px;
+}
 
 #flexbox {
     display:flex;
